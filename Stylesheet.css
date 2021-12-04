@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(57, 145, 123);
+}
+h1 {
+  border-color: #81818188;
+}
+img {
+  width: 150px;
+  height: 125px;
+  border-radius: 50px;
+  float: calc();
+  margin-right: 10px;
+}
+.username {
+  font-weight: bold;
+  background-color: blueviolet;
+  border-radius: 50px;
+}
+.container{
+  display: inline-block;
+  cursor: pointer;
+}
+link{
+  word-spacing: calc();
+}
+#myheader{
+  background-color: lightblue;
+  color: blue;
+  padding: 10px;
+}
+#myHeader{
+  background-color: bisque;
+  padding: 40px;
+  text-align: center;
+  color: black;
+}
+button{
+  color: green;
+}
+iframe{
+  width: 500px;
+  height: 200px;
+  border: none;
+}
+table{
+  padding: 10px;
+width: 400;
+border-spacing: 5;
+}
+
+
